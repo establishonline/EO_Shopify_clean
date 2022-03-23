@@ -4,6 +4,8 @@
 
 This project is created and intended to be used by Establish Online as a clean starter for Shopify. This starter will be used for Online Store 2.0 with TailwindCSS.
 
+Interested in getting a website developed by us? [Send us an email](mailto:info@establishonline.io)
+
 ## Default Pages/Elements [Custom pages on a per client basis]
 
 |                    | Pages                                    |
