@@ -1,4 +1,4 @@
-# :wave: Say hi to Establish Online :wave:
+# :wave: Hi, we're Establish Online :wave:
 
 [![Generic badge](https://img.shields.io/badge/Do%20we%20develop%20websites%3F-Yes-brightgreen)](https://establishonline.io/)
 
